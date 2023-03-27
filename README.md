@@ -30,7 +30,7 @@ Roof Imóveis é uma das maiores empresas do ramo imobiliário Brasileiro
 e quer expandir sua área de atuação fazendo um investimento internacional,
 com isso, ela contratou você para uma consultoria estratégica.
 A empresa irá investir em imóveis no Condado de County, nos Estados
-Unidos.
+Unidos. 
 
 ### Metodologia Aplicada:
 A análise foi realizada utilizando o modelo CRISP-DM, o CRISP-DM (Cross Industry Standard Process for Data Mining) é um modelo padrão de processo para projetos de mineração de dados que define um conjunto de fases e tarefas que devem ser executadas para desenvolver soluções de mineração de dados efetivas.
